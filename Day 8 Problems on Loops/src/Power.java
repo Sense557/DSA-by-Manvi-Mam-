@@ -6,10 +6,6 @@ import java.util.Scanner;
  *          - Given 2 numbers a and b. Find a raise to the power b.
  */
 
-
-
-
-
 public class Power {
     public static void main(String[] args) {
 
