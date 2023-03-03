@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day 6 Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Day 6 Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-by-Manvi-Mam-.iml" filepath="$PROJECT_DIR$/DSA-by-Manvi-Mam-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1/Day 1.iml" filepath="$PROJECT_DIR$/Day 1/Day 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 10/Day 10.iml" filepath="$PROJECT_DIR$/Day 10/Day 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2/Day 2.iml" filepath="$PROJECT_DIR$/Day 2/Day 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3/Day 3.iml" filepath="$PROJECT_DIR$/Day 3/Day 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4/Day 4.iml" filepath="$PROJECT_DIR$/Day 4/Day 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5/Day 5.iml" filepath="$PROJECT_DIR$/Day 5/Day 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 8/Day 8.iml" filepath="$PROJECT_DIR$/Day 8/Day 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 9/Day 9.iml" filepath="$PROJECT_DIR$/Day 9/Day 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 7 Loops/Loops.iml" filepath="$PROJECT_DIR$/Day 7 Loops/Loops.iml" />
+    </modules>
+  </component>
+</project>
