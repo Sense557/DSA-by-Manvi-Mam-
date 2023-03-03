@@ -13,8 +13,9 @@
  *              typically based on the size of a collection or an explicit count.
  *          3. Do-while loop: Executes a block of code at least once, and then
  *              continues to execute it as long as a specified condition is true.
- *          3. For-each loop: A special type of loop that is used to iterate over each element in a collection.
- *          4. Loops are an essential tool for programmers, as they allow for
+ *          4. For-each loop: A special type of loop that is used to iterate over each element in a collection.
+ *
+ *              Loops are an essential tool for programmers, as they allow for
  *              efficient and concise code that can be used to process large amounts
  *              of data or perform repetitive tasks.
  *
